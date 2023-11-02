@@ -40,6 +40,7 @@ The aim of the project is to develop a machine learning-based tool, specifically
 
 After designing the network, the next steps involve compiling, training, and evaluating the model. This evaluation includes calculating the model's loss and accuracy to ensure its predictive performance in determining the success of Alphabet Soup-funded organizations. Total 3 attempts were made using machine learning and neural networks to achieve the target model performance at predictive accuracy > 75%. The results are:
 
+Attempt 1
 ![Attempt1 2023-11-01 at 10 42 25 PM](https://github.com/ShipraGupta16/deep-learning-challenge/assets/25715747/2f1506a3-9122-487e-a274-b974552df901)
 
 * Accuracy score is 67.7%
@@ -49,6 +50,7 @@ After designing the network, the next steps involve compiling, training, and eva
 * Output layer: activation function = ‘sigmoid’
 * epochs = 100
 
+Attempt 2
 ![Attempt2 2023-11-01 at 10 43 09 PM](https://github.com/ShipraGupta16/deep-learning-challenge/assets/25715747/90d37197-b064-4377-a256-1b0db7449aa5)
 
 * Accuracy score is 60.2%
@@ -59,6 +61,7 @@ After designing the network, the next steps involve compiling, training, and eva
 * Output layer: activation function = ‘sigmoid’
 * epochs = 100
 
+Attempt 3
 ![Attempt3 2023-11-01 at 10 43 20 PM](https://github.com/ShipraGupta16/deep-learning-challenge/assets/25715747/e12b06cf-f59d-4682-b3b1-f09830a2dc0a)
 
 * Accuracy score is 80.7%
